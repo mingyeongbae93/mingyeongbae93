@@ -69,7 +69,7 @@
             <td>2</td>
             <td>CVE-YYYY-YYYY</td>
             <td>예시 취약점 설명 2</td>
-            <td>URL 정보</td>
+            <td>https://github.com/mingyeongbae93/cve/blob/main/2024/cve-2024-1234</td>
         </tr>
         <!-- 추가 행을 이곳에 삽입 -->
     </table>
